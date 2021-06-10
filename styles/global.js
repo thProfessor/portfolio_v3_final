@@ -1,10 +1,15 @@
 import { createGlobalStyle } from "styled-components";
-import { fonts } from "./pallete";
+import { fonts, primary } from "./pallete";
 const GlobalStyles = createGlobalStyle`
 * {
       box-sizing: border-box;
-      font-family: ${fonts.type2};
       margin: 0;
       padding:0;
-    }`;
+    };
+body{
+  font-family: ${fonts.type3};
+  color:${primary.black};
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}`;
 export default GlobalStyles;

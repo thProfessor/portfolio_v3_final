@@ -8,12 +8,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "@react-three/drei": "^6.0.3",
+    "@react-three/fiber": "^7.0.1",
+    "aframe": "^1.2.0",
+    "aframe-react": "^4.4.0",
     "framer-motion": "^4.1.17",
     "next": "10.2.3",
     "next-google-fonts": "^2.2.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "styled-components": "^5.3.0"
+    "styled-components": "^5.3.0",
+    "three": "^0.129.0"
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.12.0"

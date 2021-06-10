@@ -33,6 +33,7 @@ export default class MyDocument extends Document {
             href="http://fonts.cdnfonts.com/css/segoe-ui-4"
             rel="stylesheet"
           ></link>
+
           {/* Step 5: Output the styles in the head  */}
           {this.props.styleTags}
         </Head>

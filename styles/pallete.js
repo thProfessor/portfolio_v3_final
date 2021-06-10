@@ -1,10 +1,11 @@
 export const primary = {
-  formdark: "#4b4b4b",
-  formgrey: "#98a8b8",
-  cherry: "#ee3b43",
-  formDarkGrey: "#717171",
-  checkbox: "#35424d",
-  lightCherry: "#F26A7E",
+  primary: "#fba754",
+  pink: "#ef3c66",
+  offwhite: "#f7f8fb",
+  white: "#fff",
+  black: "#111",
+  darkgray: "#555",
+  border: "#ddd",
 };
 
 export const secondary = {
@@ -17,4 +18,11 @@ export const fonts = {
   type1: "Major Mono Display",
   type2: "Segoe UI",
   type3: "Roboto",
+};
+export const fontSizes = {
+  body: "2rem",
+  h1: "12rem",
+  h2: "7.2rem",
+  h3: "3.6rem",
+  h4: "2.4rem",
 };
