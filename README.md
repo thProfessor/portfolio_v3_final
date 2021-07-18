@@ -10,7 +10,7 @@ You can check out the designs:
 
 <img src="/" alt="figma"/>
 
-###Specs
+##Specs
 1. Next.js
 2. Server side rendering
 3. styled-components
@@ -20,5 +20,5 @@ You can check out the designs:
 7. ar/vr-support using A-frame
 
 
-###want to contribute?
+##want to contribute?
 do go through the designs clone and try your hands for any learning, help or suggestion write me a mail! ;)
