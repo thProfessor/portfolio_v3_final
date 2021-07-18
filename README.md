@@ -8,7 +8,7 @@ will be working on it next year
 
 You can check out the designs:
 
-<img src="/" alt="figma"/>
+<img src="/new_portfolio.png" alt="figma"/>
 
 ##Specs
 1. Next.js
